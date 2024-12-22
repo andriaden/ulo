@@ -9,7 +9,7 @@ on:
       kernel:
         description: 'Kernel Version (ex. 6.6.6, 6.1.31-localversion)'
         required: true
-        default: '6.6.6-AW64-DBAI'
+        default: '6.6.36-current-sunxi64'
         type: string
       devices:
         description: "Devices"
